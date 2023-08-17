@@ -16,6 +16,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<!-- Adding Build Plugins to this project -->
 	<build>
 		<plugins>
 			<plugin>
